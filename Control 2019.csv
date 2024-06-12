@@ -1,4 +1,4 @@
-BvDEP ID number;Ticker symbol;Account date;Total assets;Working capital;Enterprise value;Sales;Gross profit;P/L before tax;P/L after tax;Research & Development Expenses;EBITDA;Return on capital employed (%);Return on total assets (%)
+BvDEP ID number;Ticker;Account date;Total assets;Working capital;Enterprise value;Sales;Gross profit;P/L before tax;P/L after tax;Research & Development Expenses;EBITDA;Return on capital employed (%);Return on total assets (%)
 AT9110473471;HST;31/12/2019;11793466;-51842;42703040;300000;300070;5414931;5670020;;-21657;46,29;45,92
 BE0465281284;ICE;31/12/2019;4502563;235612;;;465160;6797;6797;;291508;;0,15
 BG203476985;SO;31/12/2019;21673000;8520000;;30953000;;2899000;2584000;;3970000;19,68;13,38
